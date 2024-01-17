@@ -6,7 +6,7 @@ Um site simples feito em aulas da alura com o intenção de aprender/praticar co
 | -------------  | --- |
 | :sparkles: Nome        | **Alura Plus**
 | :label: Tecnologias | html e css
-| :rocket: URL         | https://url-deploy.com.br
+| :rocket: URL         | [https://url-deploy.com.br](https://pedrodek.github.io/alura-plus/AluraPlus/)
 
 Foi muito bom para praticar, fazia um pouquinho de tempo desde meu último projeto.
 
